@@ -1,2 +1,2 @@
-# Pattern-printing
-My files of code show the patterns that are printed
+# Learning C++
+My files of code show my files in c++ as I learn
