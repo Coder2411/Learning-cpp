@@ -22,7 +22,7 @@ int main() {
     //CLASS: describes the structure
     //OBJECT: a specific example of that structure
     //INSTANCE: another name for object
-    //INSTANTIATING: creating the object
+    //INSTANTIATING: creating an object from a class
     //DATA MEMBERS: variables
     //METHODS: functions
     
