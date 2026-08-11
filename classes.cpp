@@ -19,5 +19,8 @@ int main() {
 
     p.PrintFullName();
 
+    //CLASS: describes the structure
+    //OBJECT: a specific example of that structure
+    
     return 0;
 }
